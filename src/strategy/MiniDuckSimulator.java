@@ -1,9 +1,9 @@
-package first;
+package strategy;
 
-import first.ducks.Duck;
-import first.ducks.MallardDuck;
-import first.ducks.ModelDuck;
-import first.fly.FlyRocketPowered;
+import strategy.ducks.Duck;
+import strategy.ducks.MallardDuck;
+import strategy.ducks.ModelDuck;
+import strategy.fly.FlyRocketPowered;
 
 public class MiniDuckSimulator {
     public static void main(String[] args) {

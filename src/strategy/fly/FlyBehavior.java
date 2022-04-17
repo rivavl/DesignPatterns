@@ -1,4 +1,4 @@
-package first.fly;
+package strategy.fly;
 
 public interface FlyBehavior {
 

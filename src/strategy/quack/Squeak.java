@@ -1,4 +1,4 @@
-package first.quack;
+package strategy.quack;
 
 public class Squeak implements QuackBehavior {
     @Override
